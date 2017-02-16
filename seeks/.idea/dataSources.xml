@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails seeks: production" uuid="646c6624-6bac-46f8-9ab6-c1b95e716863">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:seeks_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails seeks: development" uuid="5c519122-2af1-4518-bcb9-1825b4cfe8c1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:seeks_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails seeks: test" uuid="9e82d9fd-800a-4356-8005-bea58d3558ad">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:seeks_test</jdbc-url>
+    </data-source>
+  </component>
+</project>

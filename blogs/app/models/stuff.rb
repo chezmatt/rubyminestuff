@@ -1,0 +1,2 @@
+Blog.all.each(Post.create(title:"This is a title", content:"Here is some content isn't this really cool?"))
+Post.create(title:"This is a person", content:"Here is some content isn't this really cool?", blog_id:2)
